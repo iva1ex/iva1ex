@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 📱 I'm a mobile applications developer, mostly with a focus on iOS.
-- 🔭 I’m currently working on [Sigma Software](https://sigma.software).
+- 🔭 I’m currently working at [Sigma Software](https://sigma.software).
 - 👨‍🏫 I had been teaching iOS development at [Sigma Software University](https://university.sigma.software).
 - 🧩 I'm mentoring 5 mobile developers.
 - 🌱 I’m currently learning Flutter, back-end development, architectural topics and system design.
