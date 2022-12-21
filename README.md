@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📱 I'm a mobile applications developer, mostly with a focus on iOS.
+- 👋 I'm a mobile applications developer with more than 9 years of experience (mostly with a focus on iOS).
 - 🔭 I’m currently working at [Sigma Software](https://sigma.software).
 - 👨‍🏫 I had been teaching iOS development at [Sigma Software University](https://university.sigma.software).
 - 🧩 I'm mentoring 5 mobile developers.
