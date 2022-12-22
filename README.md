@@ -9,3 +9,5 @@
 - 💬 Ask me about productivity, mobile development, mentoring, teaching.
 - 📫 How to reach me: [Twitter](https://twitter.com/iva1ex), [LinkedIn](https://www.linkedin.com/in/iva1ex/).
 - 😄 Pronouns: Al-əg-ZAN-dər.
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=iva1ex.iva1ex-visitor-badge)
