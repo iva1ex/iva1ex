@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 👋 I'm a mobile applications developer with more than 9 years of experience (mostly with a focus on iOS).
-- 🔭 I'm currently working at [Sigma Software](https://sigma.software).
-- 👨‍🏫 I had been teaching iOS development at [Sigma Software University](https://university.sigma.software).
-- 🧩 I have been mentoring 5 mobile developers so far.
+- 👋 I'm a mobile applications developer with more than 10 years of experience (mostly with a focus on iOS).
+- 🔭 I'm currently working at [Grammarly](https://www.grammarly.com)
+- 👨‍🏫 I had been working at [Sigma Software](https://sigma.software) and had been teaching iOS development at [Sigma Software University](https://university.sigma.software).
+- 🧩 I had been mentoring 5 mobile developers.
 - 🧑‍💻 I'm developing my own iOS pet project using SwiftUI + CloudKit.
-- 📱 I'm currently learning architectural topics and system design, diving into algorithms using Python language.
+- 📱 I'm currently learning architectural topics and system design, diving into algorithms and advanced iOS development topics.
 - 🎵 Also, I play guitar. I'm learning to play piano and practicing Loopstation.
 - 🗣️ I'm learning Spanish and Polish languages.
 - 📚 Right now I'm reading books "The Pillars of the Earth" by Ken Follett and "Sapiens" by Yuval Noah Harari
